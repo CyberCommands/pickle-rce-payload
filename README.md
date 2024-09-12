@@ -1,7 +1,7 @@
 # Pickle RCE payload
 [![Python3.x](https://img.shields.io/badge/python-3.x-FADA5E.svg?logo=python)](https://www.python.org/)
 
-### Python's pickling deserialization Remote Code Execution payload generator.**
+### Python's pickling deserialization Remote Code Execution payload generator
 
 **Pickle** is a python package used to 'serialize' an object to string format and store them to Pickle is a simple stack language, which means pickle has a variable stack.
 Every time it finished 'deserializing' an object it stores it on the stack.
